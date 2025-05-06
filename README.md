@@ -1,7 +1,7 @@
 # Alyson Melissa Sánchez Serratos
 
 **B.S. in Computer Science and Technology**  
-📍 Toluca, Mexico | 📧 a.sanchez.serratos@outlook.com | 📞 +52 722 189 3005
+📍 Toluca, Mexico | 📧 a.sanchez.serratos@outlook.com
 
 ---
 
