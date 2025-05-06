@@ -58,5 +58,5 @@ Always eager to learn and contribute to meaningful, real-world tech solutions.
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Alyxxxxxxx&show_icons=true&theme=radical" alt="GitHub Stats" width="50%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alyxxxxxxx&theme=radical" alt="GitHub Streak" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alyxxxxxxx&theme=radical" alt="GitHub Streak" width="50%" />
 </p>
