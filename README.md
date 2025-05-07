@@ -1,11 +1,4 @@
-<h1>👩‍💻 Alyson Melissa Sánchez Serratos</h1>
-
-<p>
-  <strong>Computer Science & Technology Undergraduate</strong><br>
-  Toluca, Mexico · <a href="mailto:a.sanchez.serratos@outlook.com">a.sanchez.serratos@outlook.com</a>
-</p>
-
----
+![Image](https://github.com/user-attachments/assets/4e74559d-410c-4d72-8376-02a5539de053)
 
 ### 🧠 About Me
 
