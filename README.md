@@ -20,7 +20,8 @@ Always eager to learn and contribute to meaningful, real-world tech solutions.
 
 - 🧠 [AI Professional Certificate – CertiProf](https://www.credly.com/badges/b6036b12-8b6b-4f0e-8691-c2768d1e10cc)  
 - 🐍 [IT Specialist – Python (Certiport)](https://www.credly.com/badges/4feec071-f35c-4739-b32d-9ca4fb8c8f69)  
-- 🌐 [CCNA: Introduction to Networks & Routing – Cisco](https://www.credly.com/badges/3e26df0f-4e80-4594-ae02-48a741b02ecd)
+- 🌐 [CCNA: Introduction to Networks & Routing](https://www.credly.com/badges/3e26df0f-4e80-4594-ae02-48a741b02ecd)
+- 🌐 [CCNA: Switching, Routing, and Wireless Essentials](https://www.credly.com/badges/d1d14cb9-43fc-4982-8c3f-a46870631273)
 
 ---
 
