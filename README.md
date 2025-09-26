@@ -45,12 +45,3 @@ Always eager to learn and contribute to meaningful, real-world tech solutions.
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Alyxxxxxxx&show_icons=true&theme=radical" alt="GitHub Stats" width="50%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alyxxxxxxx&theme=radical" alt="GitHub Streak" width="50%" />
-</p>
